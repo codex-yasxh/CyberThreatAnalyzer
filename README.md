@@ -5,22 +5,22 @@
 
 ### Dashboard
 <p align="center">
-  <img src="./assets/screenshots/Dashboard.png" width="800" alt="Dashboard Screenshot"/>
+  <img src="./assets/screenshots/Dashboard.png" width="600" alt="Dashboard Screenshot"/>
 </p>
 
 ### Dashboard (Alternate View)
 <p align="center">
-  <img src="./assets/screenshots/Dashboard2.png" width="800" alt="Dashboard Second Screenshot"/>
+  <img src="./assets/screenshots/Dashboard2.png" width="600" alt="Dashboard Second Screenshot"/>
 </p>
 
 ### Features Section
 <p align="center">
-  <img src="./assets/screenshots/Features.png" width="800" alt="Features Screenshot"/>
+  <img src="./assets/screenshots/Features.png" width="600" alt="Features Screenshot"/>
 </p>
 
 ### Footer
 <p align="center">
-  <img src="./assets/screenshots/Footer.png" width="800" alt="Footer Screenshot"/>
+  <img src="./assets/screenshots/Footer.png" width="600" alt="Footer Screenshot"/>
 </p>
 
 ### Input Field

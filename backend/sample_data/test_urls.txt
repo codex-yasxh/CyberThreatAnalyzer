@@ -1,0 +1,17 @@
+# Test URLs for the Cyber Threat Analyzer
+
+## Safe URLs (should show low risk):
+https://google.com
+https://github.com
+https://stackoverflow.com
+
+## Suspicious URLs (should show medium risk):
+http://phishing-example.com
+http://malware-test.net
+https://banking-login-fake.org
+
+## Malicious URLs (should show high/critical risk):
+http://malicious-site.com/download.exe
+https://phishing-bank.net/secure-update
+http://virus-download.exe/trojan
+http://suspicious-domain.ru/malware

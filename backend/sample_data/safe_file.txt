@@ -1,0 +1,5 @@
+This is a completely safe text file.
+It contains normal content without any suspicious patterns.
+Just some regular text for testing the threat analyzer.
+No malware signatures or dangerous commands here.
+This file should be classified as safe.
